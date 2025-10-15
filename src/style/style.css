@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=BBH+Sans+Hegarty&family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+* {
+    font-family: "Roboto", sans-serif;;
+}
+
+body {
+    background-color: red;
+}
+
+.titulo-principal {
+    font-weight: bolder;
+    text-align: center;
+
+}
+
+.formulario-contencao {
+    width: 400px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 5px black;
+}
+
+input {
+    border-radius: 3px;
+}
+
+button {
+    border-radius: 3px;
+    font-weight: bold;
+    background-color: red;
+}
+
+.email {
+    margin-top: 8px;
+}
+
+.senha {
+    margin-top: 10px;
+}
+
+.img-logo {
+    border-radius: 6px;
+    width: 200px;
+    display: block;
+    margin-left: 270px;
+    margin-right: 250px;
+}
+
+.navegacao{
+    list-style: none;
+    text-align: center;
+}
+
+.navegacao-lista-itens {
+    display: inline-block;
+    padding: 10px;
+}
+
+a {
+    color: white;
+    font-style: none;
+    text-decoration: none;
+}
+
+h2 {
+    font-weight: 900;
+    font-size: 35px;
+}
+
+.noticia {
+    background-color: antiquewhite;
+    box-shadow: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.img-noticia1 {
+    width: auto;
+}
+
+.tabela-conteiner {
+    margin-top: 80px;
+    border: 2px solid black;
+}
+
+.tabela-conteudo {
+    border: 2px solid black;
+}
+
+.tabela-conteudo-orientacao {
+    border: 2px solid black;
+    padding: 0;
+    font-weight: 900;
+}   
+
